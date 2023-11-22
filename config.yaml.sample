@@ -1,0 +1,8 @@
+queues:
+  - name: notification
+    options:
+      name: notification
+      redis:
+        host: localhost
+        port: 6379
+        db: 1

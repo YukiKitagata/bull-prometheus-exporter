@@ -1,0 +1,13 @@
+{
+  "extends": "./node_modules/@tsconfig/strictest/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "es2020",
+    "module": "commonjs",
+    "moduleResolution": "node",
+  },
+  "include": ["src/**/*"],
+  "ts-node": {
+    "swc": true
+  }
+}
