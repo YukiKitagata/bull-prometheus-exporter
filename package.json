@@ -18,7 +18,7 @@
     "typescript": "5.3.2"
   },
   "dependencies": {
-    "bull": "4.11.5",
+    "bull": "4.16.2",
     "prom-client": "15.0.0",
     "yaml": "2.3.4"
   }
