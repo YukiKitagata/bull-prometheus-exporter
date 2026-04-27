@@ -20,6 +20,6 @@
   "dependencies": {
     "bull": "4.11.5",
     "prom-client": "15.0.0",
-    "yaml": "2.3.4"
+    "yaml": "2.8.3"
   }
 }
